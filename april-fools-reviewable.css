@@ -2,8 +2,7 @@ two.column.diff
   .diff.line:not(.keep)
   .line.wrapper:not(.empty)
   .left.line.content {
-  /* background-color: rgba(240, 92, 92, 0.20); */
-  background-color: blue;
+  background-color: rgba(240, 92, 92, 0.20);
 }
 .two.column.diff
   .diff.line.base:not(.keep)
@@ -13,16 +12,14 @@ two.column.diff
   .diff.line.whitespace:not(.keep)
   .line.wrapper:not(.empty)
   .left.line.content {
-  /* background-color: rgba(240, 92, 92, 0.05); */
-  background-color: blue;
+  background-color: rgba(240, 92, 92, 0.05);
 }
 
 .two.column.diff
   .diff.line:not(.keep)
   .line.wrapper:not(.empty)
   .right.line.content {
-  /* background-color: rgba(240, 92, 92, 0.20); */
-  background-color: blue;
+  background-color: rgba(240, 92, 92, 0.20);
 }
 .two.column.diff
   .diff.line.base:not(.keep)
@@ -32,26 +29,21 @@ two.column.diff
   .diff.line.whitespace:not(.keep)
   .line.wrapper:not(.empty)
   .right.line.content {
-  /* background-color: rgba(240, 92, 92, 0.05); */
-  background-color: blue;
+  background-color: rgba(240, 92, 92, 0.05);
 }
 
 .two.column.diff .diff.line .left.line.content .delta {
-  /* background-color: rgba(91, 220, 114, 0.30); */
-  background-color: blue;
+  background-color: rgba(91, 220, 114, 0.30);
 }
 .two.column.diff .diff.line.base .left.line.content .delta,
 .two.column.diff .diff.line.whitespace .left.line.content .delta {
-  /* background-color: rgba(91, 220, 114, 0.15); */
-  background-color: blue;
+  background-color: rgba(91, 220, 114, 0.15);
 }
 
 .two.column.diff .diff.line .right.line.content .delta {
-  /* background-color: rgba(240, 92, 92, 0.30); */
-  background-color: blue;
+  background-color: rgba(240, 92, 92, 0.30);
 }
 .two.column.diff .diff.line.base .right.line.content .delta,
 .two.column.diff .diff.line.whitespace .right.line.content .delta {
-  /* background-color: rgba(240, 92, 92, 0.15); */
-  background-color: blue;
+  background-color: rgba(240, 92, 92, 0.15);
 }
